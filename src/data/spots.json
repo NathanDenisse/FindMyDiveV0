@@ -1,0 +1,43 @@
+[
+  {
+    "slug": "tulum",
+    "name": "Tulum",
+    "country": "Mexique",
+    "description": "Célèbre pour ses cénotes et sa visibilité incroyable.",
+    "image": "/tulum.jpg",
+    "coords": [20.211, -87.465],
+    "animals": ["Tortues", "Poissons tropicaux"],
+    "level": "Tous niveaux"
+  },
+  {
+    "slug": "komodo",
+    "name": "Komodo",
+    "country": "Indonésie",
+    "description": "Plongée de classe mondiale avec raies mantas et coraux.",
+    "image": "/komodo.jpg",
+    "coords": [-8.583, 119.483],
+    "animals": ["Raies mantas", "Requins", "Poissons de récif"],
+    "level": "Niveau 2 et plus"
+  },
+  {
+    "slug": "blue-hole",
+    "name": "Blue Hole",
+    "country": "Belize",
+    "description": "Un site iconique de plongée avec des tombants impressionnants et une faune marine diversifiée.",
+    "image": "/blue-hole.jpg",
+    "coords": [17.315, -87.531],
+    "animals": ["Poissons de récif"],
+    "level": "Débutant"
+  },
+  {
+    "slug": "cozumel",
+    "name": "Cozumel",
+    "country": "Mexique",
+    "description": "Un des spots les plus réputés des Caraïbes pour sa faune marine.",
+    "image": "/cozumel.jpg",
+    "coords": [20.422983, -86.922343],
+    "animals": ["Crustacés", "Poissons de récif", "Requins de récif"],
+    "level": "Avancé"
+  }
+  
+]
